@@ -1,7 +1,7 @@
 ### Olá, sou Agozie Emehelu
 
 
-- Estudo Sistemas de Informação na Universidade Presbiteriana Mackenzie <img  align="center" alt="Logo" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mackenzie_M.svg/1200px-Mackenzie_M.svg.png">
+- Estudo Sistemas de Informação
 - Moro em São Paulo <img  align="center" alt="Local" height="30" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWckQnc1XQFCndQzf1XFDl_566_QpKajCyg&usqp=CAU">
 
 
