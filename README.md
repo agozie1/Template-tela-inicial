@@ -1,7 +1,5 @@
 ### Olá, sou Agozie Emehelu 
 
-- Estudo Sistemas de Informação
-- Moro em São Paulo <img  align="center" alt="Local" height="30" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWckQnc1XQFCndQzf1XFDl_566_QpKajCyg&usqp=CAU">
   
 <div style="display: inline_block"
      <br>
